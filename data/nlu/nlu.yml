@@ -2184,7 +2184,7 @@ nlu:
     - i want to restart
     - why don't you restart????
     - hey, i said restart
-    - restart session pls
+    - restart [session](company) pls
     - restart ps
 - synonym: english
   examples: |
@@ -2214,7 +2214,6 @@ nlu:
   examples: |
     - CORE
     - Core
-    - core
     - dialogue management
     - Dialogue management
     - Dialogue Management
@@ -2315,18 +2314,6 @@ nlu:
     - RASA X
     - X
     - rasax
-- synonym: playground
-  examples: |
-    - Rasaplayground
-    - RASAPlayground
-    - Rasa Playground
-    - rasa playground
-    - RASA playgrounds
-    - playgrounds
-    - Playground
-    - rasaplaygrounds
-    - interactive playground
-    - Interactive Playground
 - synonym: local
   examples: |
     - locally
